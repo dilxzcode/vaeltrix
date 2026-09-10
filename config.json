@@ -1,3 +1,5 @@
 {
-  "base_url": "http://38.47.85.76:3052"
+  "server_url": "38.47.85.76:3052", 
+  "base_url": "http:// ", 
+  "ws_url": "wss://ws- "
 }
